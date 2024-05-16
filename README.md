@@ -1,3 +1,3 @@
-# my Git-hub-training
+# My-Git-hub-training
 This is my first github repository.
 By Tanveer Ahmed
